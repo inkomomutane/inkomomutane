@@ -1,5 +1,5 @@
 # Nelson Alexandre Mutane
-<img src="https://inkomomutane.github.io/assets/me-a265a580.webp" width="200" height="200" style="border-radius: 100%"/>
+<img src="me.webp" width="200" height="200" style="border-radius: 100%"/>
 
 ## Software Developer
     
