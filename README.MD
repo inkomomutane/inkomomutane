@@ -25,7 +25,6 @@ where I'm working on the development of an ERP system for the company.
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inkomomutane&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=8)
