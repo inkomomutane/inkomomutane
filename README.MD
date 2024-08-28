@@ -8,7 +8,7 @@
 I'm finalist student of Computer Engineering at <a href="https://unizambeze.ac.mz/" target="_blank">Unizambeze</a> <br>
 and a passionate full-stack developer with more than 4 years of experience specialized in web development using stacks like Laravel, Vue, Statamic and more..., <br>
 i'm also interested in mobile development using Flutter to build cross-platform apps.<br>
-i'm currently official maintainer of <a href="https://mimovel.com/" target="_blank">Mimóvel</a> and <a href="https://www.https://ofeminicidio.ampdc.org" target="_blank">Observatório do feminicídio em moçambique</a><br>
+i'm currently official maintainer of <a href="https://mimovel.com/" target="_blank">Mimóvel</a> and <a href="https://ofeminicidio.ampdc.org" target="_blank">Observatório do feminicídio em moçambique</a><br>
 but I'm also intern software developer at <a href="https://https://www.elint-systems.com//" target="_blank">Elint IT Corporate Systems</a><br>
 where I'm working on the development of an ERP system for the company.
 </p>
